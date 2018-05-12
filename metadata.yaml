@@ -1,0 +1,29 @@
+_repo: International-CopyrightConsidered-in-some-of-its-Relations-to-Ethics-and-Political-Economy_22619
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Putnam, George Haven
+    birthdate: 1844
+    deathdate: 1930
+    gutenberg_agent_id: '4082'
+    url: http://www.gutenberg.org/2009/agents/4082
+description: ''
+gutenberg_issued: '2007-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22619'
+  lccn: 06029718
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Copyright, International'
+title: 'International Copyright
+
+  Considered in some of its Relations to Ethics and Political Economy'
+url: http://www.gutenberg.org/ebooks/22619
